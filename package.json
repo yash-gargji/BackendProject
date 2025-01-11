@@ -1,0 +1,15 @@
+{
+  "name": "bakendproject",
+  "version": "1.0.0",
+  "description": "backend project for youtube like data handling .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Yash Garg",
+  "license": "ISC"
+}
